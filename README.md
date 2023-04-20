@@ -1,2 +1,1 @@
-# iTunes
-simple alternative of iTunes
+[Click to view the product](https://karrvel.github.io/iTunes/)
